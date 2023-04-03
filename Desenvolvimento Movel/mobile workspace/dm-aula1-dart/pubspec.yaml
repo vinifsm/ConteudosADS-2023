@@ -1,0 +1,9 @@
+# dart pub get
+name: dm_aula1_dart
+description: Projetos Dart - FEMA 2023
+
+environment:
+  sdk: '^2.19.1'
+
+dependencies:
+  intl: 0.18.0
